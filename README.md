@@ -1,4 +1,7 @@
-### Hi there 👋
+# Inferno / Infernal / Infernalloo
+Hi everyone, I'm Inferno, a teen who recently started liking coding and related stuff. Trying to do my stuff here.<br>
+I really like to personalize stuff, especially with the [Nord theme](https://www.nordtheme.com/). 
+Hope I can learn as much as possible.
 
 <!--
 **Infernalloo/Infernalloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
