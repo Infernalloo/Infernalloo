@@ -9,6 +9,6 @@ Yearly objectives:<br>
 2024 Q2: learn Bash<br>
 <br>
 10.02.2023:
-  Started 6 month linux challeng by The Linux Cast. Went from Nobara 37 to OpenSuse Tumbleweed <s>Xfce4</s>.
+  Started 6 month linux challeng by The Linux Cast. Went from Nobara 37 to OpenSuse Tumbleweed <s>Xfce4</s> KDE.
 
 <link rel="stylesheet" type="text/css" href="https://github.com/Infernalloo/custom-github-theme/blob/main/style.css">
