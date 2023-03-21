@@ -6,11 +6,8 @@ I really like to "rice" stuff, my favorite themes are:<br>
 - Tokyo night<br>
 
 Yearly objectives:<br>
-2022 : C<br>
-2022 Q3 : C++<br>
-2022 Q4 : C#<br>
-2023 Q1 : Nim<br>
-2023 Q2 : Bash<br>
+2022: C/C++/C#<br>
+2023: Nim/Bash/Python<br>
 <br>
 10.02.2023:<br>
   <s>Started 6 month linux challeng by The Linux Cast. Went from Nobara 37 to OpenSuse Tumbleweed <s>Xfce4</s> KDE.</s><br>
