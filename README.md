@@ -6,12 +6,7 @@ I really like to "rice" stuff, my favorite themes are:<br>
 - Tokyo night<br>
 
 Yearly objectives:<br>
-2022: C/C++/C#<br>
-2023: Nim/Bash/Python<br>
-<br>
-10.02.2023:<br>
-  <s>Started 6 month linux challeng by The Linux Cast. Went from Nobara 37 to OpenSuse Tumbleweed <s>Xfce4</s> KDE.</s><br>
-16.02.2023:<br>
-  Quited the 6 month linux challenge.
+27.03.2023 --> 07.07.2023 = 100 day course python
+
 
 <link rel="stylesheet" type="text/css" href="https://github.com/Infernalloo/custom-github-theme/blob/main/style.css">
