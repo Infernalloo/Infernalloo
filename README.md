@@ -4,7 +4,7 @@ I really like to "rice" stuff, my favorite themes are:<br>
 - Nord theme
 - Dracula theme
 - Tokyo night
-- Catppuccin,<br>
+- Catppuccin<br>
 
 Yearly objectives:<br>
 27.03.2023 --> 07.07.2023 = 100 day course python
