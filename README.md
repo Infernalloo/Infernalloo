@@ -3,7 +3,8 @@ Hi everyone, I'm Inferno, a teen who recently started liking coding and related 
 I really like to "rice" stuff, my favorite themes are:<br>
 - Nord theme
 - Dracula theme
-- Tokyo night<br>
+- Tokyo night
+- Catppuccin,<br>
 
 Yearly objectives:<br>
 27.03.2023 --> 07.07.2023 = 100 day course python
